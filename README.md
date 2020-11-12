@@ -1,5 +1,5 @@
 # WelcomeDemo
-========
+
 
 .. image:: https://img.shields.io/travis/KungfuKen/WelcomeDemo.svg
         :target: https://travis-ci.org/KungfuKen/WelcomeDemo
@@ -8,7 +8,7 @@
         :target: https://pypi.python.org/pypi/WelcomeDemo
 
 Repo contains welcome.py program in master branch
-
+--------
 * Free software: 3-clause BSD license
 * Documentation: (COMING SOON!) https://KungfuKen.github.io/WelcomeDemo.
 
