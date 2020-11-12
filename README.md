@@ -7,7 +7,7 @@
 .. image:: https://img.shields.io/pypi/v/WelcomeDemo.svg
         :target: https://pypi.python.org/pypi/WelcomeDemo
 
-Repo contains welcome.py program in master branch
+Welcome.py program and Licence contained in master branch
 --------
 * Free software: 3-clause BSD license
 * Documentation: (COMING SOON!) https://KungfuKen.github.io/WelcomeDemo.
