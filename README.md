@@ -1,7 +1,5 @@
 # WelcomeDemo
 =======
-Welcome
-=======
 
 .. image:: https://img.shields.io/travis/KungfuKen/WelcomeDemo.svg
         :target: https://travis-ci.org/KungfuKen/WelcomeDemo
@@ -9,9 +7,8 @@ Welcome
 .. image:: https://img.shields.io/pypi/v/WelcomeDemo.svg
         :target: https://pypi.python.org/pypi/WelcomeDemo
 
-
-Program to read and write files on your computer created using cookiecutter. 
-
+Repo contains welcome.py program in master branch
+=======
 * Free software: 3-clause BSD license
 * Documentation: (COMING SOON!) https://KungfuKen.github.io/WelcomeDemo.
 
